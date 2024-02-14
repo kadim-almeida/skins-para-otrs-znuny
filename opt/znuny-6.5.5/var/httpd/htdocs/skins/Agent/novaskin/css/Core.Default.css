@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+body {
+  background-color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+}
+
+a {
+  color: #27a1da;
+}
+
+table tr.MasterAction:hover {
+  cursor: pointer;
+  background: #27a1da !important;
+}
+
+#Header {
+  background: #052c65;
+  color: #fff;
+}
+
+#Navigation > li > a {
+  color: #ffffff;
+}
+
+#ToolBar li.UserAvatar .Initials {
+  background: #ffffff;
+}
+
+#ToolBar li.UserAvatar > a {
+  color: #27a1da !important;
+}
+
+.WidgetSimple > .Header,
+.WidgetSimple.Collapsed.AnimationRunning > .Header {
+  background: #052c65;
+}
+
+.WidgetSimple > .Header h2,
+.WidgetSimple > .Header h3 {
+  font-size: 13px;
+  text-shadow: none;
+  color: #fff;
+}
