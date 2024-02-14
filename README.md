@@ -97,7 +97,7 @@ O projeto é distribuído sob a Licença Pública Geral GNU (GPL v3) - consulte 
 
 Se você achar útil este projeto e desejar contribuir, sinta-se à vontade para realizar um fork e enviar suas melhorias através de pull requests.
 
-Esperamos que este projeto facilite a personalização das skins no OTRS Znuny. Qualquer dúvida ou sugestão, por favor, abra uma [issue](https://github.com/seuusuario/seurepositorio/issues).
+Esperamos que este projeto facilite a personalização das skins no OTRS Znuny. Qualquer dúvida ou sugestão, por favor, abra uma [issue](https://github.com/kadim-almeida/skins-para-otrs-znuny/issues).
 
 ## Znuny Oficial
 
